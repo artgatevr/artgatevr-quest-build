@@ -1,4 +1,4 @@
-# artgatevr
+# artgatevr-quest
 Art Gate VR is social virtual reality service for galleries and museums.
 
 http://artgatevr.com/
